@@ -21,15 +21,11 @@ Concept: Interfaces and the Spread operator for immutability.
 6. OOP Inheritance
 Concept: Class inheritance and constructors.
 
+
+
 Part 2: Technical Blogs
 
-
-Blog 1: The Role of Generics in Reusability
-
-
-Generics allow developers to create functions and components that work with a variety of types while maintaining strict type safety. Instead of using any, which bypasses type checking, Generics capture the specific type of the input (using a placeholder like <T>) and ensure that the output remains consistent with that type. This results in code that is both flexible and predictable, reducing runtime errors in large data structures.
-
-Blog 2: Managing Complexity via OOP
+Blog 1: The Four Pillars of OOP in TypeScript
 
 The four pillars of Object-Oriented Programming (OOP) are essential for managing large-scale TypeScript projects:
 
@@ -40,6 +36,11 @@ Polymorphism: Allows multiple classes to use the same interface with unique impl
 Abstraction: Simplifies complex systems by exposing only necessary features through interfaces or abstract classes.
 
 Encapsulation: Protects internal data from unauthorized access using modifiers like private and protected.
+
+
+Blog 2: Mastering Generics in TypeScript
+
+Generics allow developers to create functions and components that work with a variety of types while maintaining strict type safety. 
 
 Conclusion:
 This assignment demonstrates the practical application of TypeScript’s core features, focusing on writing clean, reusable, and architecturally sound code.
